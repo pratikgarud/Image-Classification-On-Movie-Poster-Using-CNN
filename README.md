@@ -1,0 +1,2 @@
+# Image-Classification-On-Movie-Poster-Using-CNN
+We propose to achieve movie genre classification based only on movie poster images. A deep neural network is constructed to jointly describe visual appearance and object information, and classify a given movie poster image into genres. Because a movie may belong to multiple genres, this is a multi-label image classification problem.Based on this dataset, we fine-tune a pre-trained convolutional neural network to extract visual representation and adopt a state-of-the-art framework to detect objects in posters.
